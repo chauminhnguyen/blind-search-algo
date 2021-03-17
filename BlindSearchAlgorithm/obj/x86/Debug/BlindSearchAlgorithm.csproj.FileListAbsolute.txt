@@ -1,0 +1,10 @@
+E:\VS\BlindSearchAlgorithm\BlindSearchAlgorithm\bin\x86\Debug\BlindSearchAlgorithm.exe.config
+E:\VS\BlindSearchAlgorithm\BlindSearchAlgorithm\bin\x86\Debug\BlindSearchAlgorithm.exe
+E:\VS\BlindSearchAlgorithm\BlindSearchAlgorithm\bin\x86\Debug\BlindSearchAlgorithm.pdb
+E:\VS\BlindSearchAlgorithm\BlindSearchAlgorithm\obj\x86\Debug\BlindSearchAlgorithm.csprojAssemblyReference.cache
+E:\VS\BlindSearchAlgorithm\BlindSearchAlgorithm\obj\x86\Debug\BlindSearchAlgorithm.Form1.resources
+E:\VS\BlindSearchAlgorithm\BlindSearchAlgorithm\obj\x86\Debug\BlindSearchAlgorithm.Properties.Resources.resources
+E:\VS\BlindSearchAlgorithm\BlindSearchAlgorithm\obj\x86\Debug\BlindSearchAlgorithm.csproj.GenerateResource.cache
+E:\VS\BlindSearchAlgorithm\BlindSearchAlgorithm\obj\x86\Debug\BlindSearchAlgorithm.csproj.CoreCompileInputs.cache
+E:\VS\BlindSearchAlgorithm\BlindSearchAlgorithm\obj\x86\Debug\BlindSearchAlgorithm.exe
+E:\VS\BlindSearchAlgorithm\BlindSearchAlgorithm\obj\x86\Debug\BlindSearchAlgorithm.pdb
